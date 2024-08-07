@@ -11,3 +11,4 @@ npm start
 
 #to install dependencies =
 npm install
+added task

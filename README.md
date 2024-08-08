@@ -11,4 +11,5 @@ npm start
 
 #to install dependencies =
 npm install
-yes
+-----------------------------------
+=================================

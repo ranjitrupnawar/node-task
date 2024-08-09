@@ -8,13 +8,5 @@ npm run build
 npm run test
 
 #to run server =
-npm start
-
-#to install dependencies =
-npm install
-
-# to start application 
-npm start 
-
-
+npm star
 --------------------------------------------------

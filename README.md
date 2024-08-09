@@ -13,8 +13,6 @@ npm start
 #to install dependencies =
 npm install
 
-# to start application 
-npm start 
 
 
 --------------------------------------------------

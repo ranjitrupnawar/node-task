@@ -17,6 +17,7 @@ pm2 monitor --> to monitor cpu
 
 pm2 logs --> to check logs
 
+
 main changes github trigger and runs branch with pm2 automatically
 
 

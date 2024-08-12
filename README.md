@@ -19,6 +19,8 @@ pm2 logs --> to check logs
 
 
 main changes github trigger and runs branch with pm2 automatically
+pm2 start 
+pm2 logs
 
 
 =====================

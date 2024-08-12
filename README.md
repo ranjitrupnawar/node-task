@@ -11,5 +11,11 @@ npm run test
 
 pm2 start application name or applicaton id
 
+pm2 list --> to see total number of application runnng
+
+pm2 monitor --> to monitor cpu 
+
+pm2 logs --> to check logs
+
 
 --------------------------------------------------

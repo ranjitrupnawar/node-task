@@ -8,5 +8,6 @@ npm run build
 npm run test
 
 #to run server =
-npm star
+pm2 start application name or applicaton id
+
 --------------------------------------------------

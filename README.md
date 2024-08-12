@@ -10,4 +10,5 @@ npm run test
 #to run server =
 pm2 start application name or applicaton id
 
+
 --------------------------------------------------

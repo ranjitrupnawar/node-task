@@ -17,7 +17,7 @@ pm2 monitor --> to monitor cpu
 
 pm2 logs --> to check logs
 
-main brach name 
+main changes github trigger and runs branch 
 
 
 --------------------------------------------------

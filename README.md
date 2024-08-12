@@ -11,7 +11,4 @@ npm run test
 pm2 start application name or applicaton id
 
 
-
-
-
 --------------------------------------------------
